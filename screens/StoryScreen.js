@@ -73,7 +73,7 @@ export default class StoryScreen extends Component {
               ></Image>
             </View>
             <View style={styles.appTitleTextContainer}>
-              <Text style={styles.appTitleText}>Storytelling App</Text>
+              <Text style={styles.appTitleText}>Storyrelling App</Text>
             </View>
           </View>
           <View style={styles.storyContainer}>
